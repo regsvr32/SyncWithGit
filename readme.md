@@ -1,4 +1,4 @@
-#Sync With Git
+# Sync With Git
 
 simple *.bat* file, check the git head version of the project, and do something if there are changes.
 
